@@ -11,15 +11,15 @@
     "colors": [
       {
         "name": "White",
-        "image": "/src/assets/Camera/cam-white.png"
+        "image": "/Camera/cam-white.png"
       },
       {
         "name": "Gray",
-        "image": "/src/assets/Camera/cam-white.png"
+        "image": "/Camera/cam-white.png"
       },
       {
         "name": "Black",
-        "image": "/src/assets/Camera/cam-white.png"
+        "image": "/Camera/cam-white.png"
       }
     ],
     "learnMoreUrl": "#"
@@ -36,11 +36,11 @@
     "colors": [
       {
         "name": "White",
-        "image": "/src/assets/Camera/mul-cam-white.png"
+        "image": "/Camera/mul-cam-white.png"
       },
       {
         "name": "Black",
-        "image": "/src/assets/Camera/mul-cam-black.png"
+        "image": "/Camera/mul-cam-black.png"
       }
     ],
     "learnMoreUrl": "#"
@@ -57,11 +57,11 @@
     "colors": [
       {
         "name": "White",
-        "image": "/src/assets/Camera/cam-foating-white.png"
+        "image": "/Camera/cam-foating-white.png"
       },
       {
         "name": "Black",
-        "image": "/src/assets/Camera/cam-foating-black.png"
+        "image": "/Camera/cam-foating-black.png"
       }
     ],
     "learnMoreUrl": "#"
@@ -85,11 +85,11 @@
     "colors": [
       {
         "name": "White",
-        "image": "/src/assets/Camera/cam-pro-white.png"
+        "image": "/Camera/cam-pro-white.png"
       },
       {
         "name": "Black",
-        "image": "/src/assets/Camera/cam-pro-black.png"
+        "image": "/Camera/cam-pro-black.png"
       }
     ],
     "learnMoreUrl": "#"
@@ -98,7 +98,7 @@
     "id": 101,
     "title": "Wyze Sense Motion Sensor",
     "description": "Detect movement around your home.",
-    "image": "/src/assets/Sensor/Wyze Sense Motion Sensor.png",
+    "image": "/Sensor/Wyze Sense Motion Sensor.png",
     "price": 29.99,
     "category": "sensor"
   },
@@ -106,7 +106,7 @@
     "id": 102,
     "title": "Wyze Sense Hub (Required)",
     "description": "Required hub for Wyze sensors.",
-    "image": "/src/assets/Sensor/Wyze Sense Hub.png",
+    "image": "/Sensor/Wyze Sense Hub.png",
     "oldPrice": 29.99,
     "price": 0,
     "discountPercentage": 100,
@@ -116,7 +116,7 @@
     "id": 201,
     "title": "Wyze MicroSD Card (256GB)",
     "description": "Local storage for recordings.",
-    "image": "/src/assets/Accessories/Wyze MicroSD.png",
+    "image": "/Accessories/Wyze MicroSD.png",
     "price": 20.98,
     "category": "accessory"
   },
