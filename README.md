@@ -118,3 +118,7 @@ Bundle configurations are stored in Local Storage and restored automatically whe
 ## Test Information
 
 **Test ID: 41168**
+
+## Live Demo
+
+https://bundle-builder-task-beta.vercel.app/
